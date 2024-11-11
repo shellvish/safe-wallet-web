@@ -4216,17 +4216,10 @@
   dependencies:
     abitype "^1.0.2"
 
-"@safe-global/safe-deployments@1.37.12":
-  version "1.37.12"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.37.12.tgz#c01b0a272991ae0e63a37d506024a809de53c370"
-  integrity sha512-6UM5wS6b0h4Uu2BCK6sWLNC5UYFBd1Xu4YsuZpoSjlo/6UDbbK6lzYVEgtqbsy8p1z2ZO+Z73WgRo3mlh7awig==
-  dependencies:
-    semver "^7.6.2"
-
-"@safe-global/safe-deployments@^1.37.9":
-  version "1.37.10"
-  resolved "https://registry.yarnpkg.com/@safe-global/safe-deployments/-/safe-deployments-1.37.10.tgz#2f61a25bd479332821ba2e91a575237d77406ec3"
-  integrity sha512-lcxX9CV+xdcLs4dF6Cx18zDww5JyqaX6RdcvU0o/34IgJ4Wjo3J/RNzJAoMhurCAfTGr+0vyJ9V13Qo50AR6JA==
+"@safe-global/safe-deployments@^1.37.9", "@safe-global/safe-deployments@github:shellvish/safe-deployments":
+  version "1.37.15"
+  uid ca8ddd87fe4c388c20284ea73adfaae8d1776035
+  resolved "https://codeload.github.com/shellvish/safe-deployments/tar.gz/ca8ddd87fe4c388c20284ea73adfaae8d1776035"
   dependencies:
     semver "^7.6.2"
 
